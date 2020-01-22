@@ -2,7 +2,7 @@
  session_start();
 include("conexion.php");
 
-$_SESSION['uri']='http://localhost/campussur/';
+$_SESSION['uri']='https://les.atomolector.com/';
 //datos recibido del usuario 
 
 $_POST["txtUsuario"];

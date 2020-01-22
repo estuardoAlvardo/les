@@ -19,7 +19,7 @@ $_SESSION['notiDrive']=$obtenerCompartidos->rowCount();
 
 //datos a modificar para produccion
 
-  $urlComands='https://madretierra.atomolector.com/'; //modificar 
+  $urlComands='https://les.atomolector.com/'; //modificar 
 
 
  ?>

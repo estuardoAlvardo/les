@@ -390,10 +390,11 @@ box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
                 switch ($h) {
                   case 1:
                     $diaSemanaGet='lunes';
+                     $bloqueante='display:none';
                     break;
                   case 2:
                     $diaSemanaGet='martes';
-                    $bloqueante='display:none';
+                   
                     break;
                   case 3:
                     $diaSemanaGet='miercoles';

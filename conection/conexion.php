@@ -1,7 +1,7 @@
 <?php
  
 $databaseHost = 'localhost';
-$databaseName = 'campussur';
+$databaseName = 'atom1';
 $databaseUsername = 'root';
 $databasePassword = 'Admin11!';
  
